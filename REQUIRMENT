@@ -1,0 +1,22 @@
+
+# Deep Learning Framework
+torch
+
+# LangChain Framework
+langchain
+langchain-community
+langchain-text-splitters
+langchain-huggingface
+
+# PDF Document Processing
+pypdf
+
+# Hugging Face Transformers
+transformers
+accelerate
+
+# Embedding Model
+sentence-transformers
+
+# Vector Database
+faiss-cpu
